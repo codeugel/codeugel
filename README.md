@@ -4,6 +4,7 @@
 ## 🚀Full Stack Developer & AI Enthusiast🚀
 ### 🔥 Transformando ideas en código, optimizando procesos y diseñando soluciones inteligentes.
 Soy un desarrollador Full Stack y Project Manager con experiencia en la arquitectura de software, el desarrollo de microservicios y la construcción de modelos de Machine Learning (ML) y LLM. Me apasiona la creación de sistemas escalables, eficientes y bien estructurados.
+
 ![Logo](https://github.com/codeugel/codeugel/blob/main/logocode-removebg-preview.png)
 ## 🛠 Habilidades Técnicas
 <div align="left">

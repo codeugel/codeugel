@@ -1,5 +1,6 @@
+🇬🇧 [English Version](README.en.md)  
+🇪🇸 [Versión en Español](README.es.md)
 ![bannercodeugel](https://github.com/codeugel/codeugel/blob/main/BANNERCO.png)
-
 # 🚀 Eugel Brito 🚀<br>
 ## 🚀Full Stack Developer & AI Enthusiast🚀
 ### 🔥 Transformando ideas en código, optimizando procesos y diseñando soluciones inteligentes.

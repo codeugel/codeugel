@@ -19,6 +19,7 @@ Soy **Desarrollador Full Stack** y **Project Manager** con un fuerte enfoque en 
 | **Frontend** | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
 | **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) |
 | **Infraestructura** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![DevOps](https://img.shields.io/badge/-DevOps-000000?logo=devops&logoColor=white) |
+| **Databases** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?logo=mongodb&logoColor=white) |
 | **Seguridad** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Cybersecurity](https://img.shields.io/badge/-Ethical_Hacking-000000?logo=hackthebox&logoColor=white) |
 
 ---

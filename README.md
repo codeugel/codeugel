@@ -34,7 +34,7 @@ Soy un desarrollador Full Stack y Project Manager con experiencia en la arquitec
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://gitlab.com/kalilinux/brand-assets/-/raw/master/ext-logos/kali-linux-logo.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/kali-linux-1.svg" height="40" alt="docker logo"  />
   
 </div>
 

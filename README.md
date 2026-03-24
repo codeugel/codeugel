@@ -1,54 +1,47 @@
 
-![bannercodeugel](https://github.com/codeugel/codeugel/blob/main/BANNERCO.png)
-# 🚀 Eugel Brito 🚀<br>
-## 🚀Full Stack Developer & AI Enthusiast🚀
+# 🚀 Eugel Brito | Full Stack Developer & AI Enthusiast
+
+<p align="center">
+  <img src="https://github.com/codeugel/codeugel/raw/main/BANNERCO.png" alt="Banner Codeugel" width="100%">
+</p>
+
 ### 🔥 Transformando ideas en código, optimizando procesos y diseñando soluciones inteligentes.
-Soy un desarrollador Full Stack y Project Manager con experiencia en la arquitectura de software, el desarrollo de microservicios y la construcción de modelos de Machine Learning (ML) y LLM. Me apasiona la creación de sistemas escalables, eficientes y bien estructurados.
 
-![Logo](https://github.com/codeugel/codeugel/blob/main/logocode-removebg-preview.png)
-## 🛠 Habilidades Técnicas
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://www.okoone.com/wp-content/uploads/2024/04/no-sql-logo.png" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/kali-linux-1.svg" height="40" alt="docker logo"  />
-  
-</div>
+Soy **Desarrollador Full Stack** y **Project Manager** especializado en arquitectura de software, microservicios y modelos de Machine Learning (ML/LLM). Mi enfoque principal es la creación de sistemas escalables, eficientes y ciberseguros.
 
-## 📬 Conéctate conmigo
+---
 
-💻 GitHub: [github.com/codeugelds](https://github.com/codeugel/codeugel)
+## 🛠️ Stack Tecnológico
 
-✉ Email: codeugel@gmail.com
+| Sector | Tecnologías |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) |
+| **Infraestructura** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![DevOps](https://img.shields.io/badge/-DevOps-000000?logo=devops&logoColor=white) |
+| **Seguridad & OS** | ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kali-linux&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
+| **Databases** | ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?logo=mongodb&logoColor=white) |
 
-🔗 LinkedIn: [codeugel](https://www.linkedin.com/in/codeugel?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+---
 
-🔗 Youtube: [@codeugel](https://youtube.com/@codeugel?si=AZcka0D2ndB2egAw)
+## 📈 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeugel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeugel&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
+---
 
+## 📬 Hablemos
+¡Siempre estoy abierto a colaborar en proyectos innovadores!
 
+* 💼 **LinkedIn:** [linkedin.com/in/codeugel](https://www.linkedin.com/in/codeugel)
+* 📺 **YouTube:** [@codeugel](https://youtube.com/@codeugel)
+* 📧 **Email:** [codeugel@gmail.com](mailto:codeugel@gmail.com)
+* 🌍 **Web:** [Aquienlaweb](https://github.com/codeugel/codeugel)
 
+---
+
+<p align="center">
+  <img src="https://github.com/codeugel/codeugel/raw/main/logocode-removebg-preview.png" width="100" alt="Logo" />
+</p>
 

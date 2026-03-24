@@ -33,6 +33,8 @@ Soy un desarrollador Full Stack y Project Manager con experiencia en la arquitec
   <img src="https://www.okoone.com/wp-content/uploads/2024/04/no-sql-logo.png" height="50" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="40" alt="docker logo"  />
   
 </div>
 

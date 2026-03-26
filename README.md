@@ -3,7 +3,7 @@
 # 🚀 Eugel Brito | Full Stack Developer & AI Solutions Architect
 
 <p align="center">
-  <img src="https://github.com/codeugel/codeugel/raw/main/BANNERCO.png" alt="Banner Codeugel" width="100%">
+  <img src="https://github.com/codeugel/codeugel/raw/main/BANNERCO.png" alt="Banner Codeugel" width="100%"> 
 </p>
 
 ### 🔥 Transformando ideas en código, optimizando procesos y diseñando soluciones inteligentes con IA.
